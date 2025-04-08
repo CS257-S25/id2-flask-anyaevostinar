@@ -48,6 +48,7 @@ def get_pokemon_by_name(name):
     Returns the Pokemon with the given name
     :param name: The name of the Pokemon
     :return: The Pokemon
+    
     '''
 
     #find the Pokemon with the given name
